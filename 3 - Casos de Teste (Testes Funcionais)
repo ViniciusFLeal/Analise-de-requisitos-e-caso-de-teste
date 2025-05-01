@@ -1,0 +1,20 @@
+# Caso de Teste: Login de Usuário
+
+**ID do Caso de Teste**: CT001  
+**Objetivo**: Verificar o login de usuário com e-mail e senha válidos.
+
+    ## Pré-condicões
+O usuário deve estar cadastrado no sistema.
+
+    ## Passos - gherkin
+  1. Given: Que o usuário acessou a página de login
+  2. When: O usuário informa o e-mail "usuario@exemplo.com" e a senha "senha123"
+  3. And: O usuário clica no botão "Entrar"
+  3. Then: O usuário deve ser autenticado e redirecionado para a página inicial
+
+    ## Resultado Esperado
+O sistema deve redirecionar o usuário para a página principal.
+
+    ## Dados de Teste
+1. E-mail: usuario@exemplo.com
+2. Senha: senha123

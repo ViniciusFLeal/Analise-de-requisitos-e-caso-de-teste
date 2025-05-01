@@ -1,0 +1,27 @@
+
+# 3. Seção de Análise de Requisitos
+
+A **Análise de Requisitos** é fundamental para garantir que você entenda as funcionalidades que o software precisa oferecer antes de escrever qualquer tipo de teste:
+
+  # Análise de Requisitos - Sistema de E-commerce
+
+  ## Objetivo
+  O objetivo deste documento é capturar os requisitos do sistema de e-commerce que será desenvolvido para uma loja online.
+
+  ## Requisitos Funcionais
+  1. **RF001**: O sistema deve permitir que o usuário faça login utilizando e-mail e senha.
+  2. **RF002**: O sistema deve permitir que o usuário adicione produtos ao carrinho.
+  3. **RF003**: O sistema deve permitir que o usuário finalize a compra com opções de pagamento.
+  
+  ## Requisitos Não Funcionais
+  1. **RNF001**: O sistema deve ser capaz de processar 100 transações por segundo.
+  2. **RNF002**: O sistema deve ser compatível com os navegadores mais recentes (Chrome, Firefox, Safari).
+
+# Requisitos Não Funcionais - Sistema de E-commerce
+
+## Desempenho
+- O sistema deve ser capaz de processar 200 pedidos simultâneos.
+- O tempo máximo para concluir uma transação não deve ultrapassar 3 segundos.
+
+## Segurança
+- Todos os dados do cliente devem ser criptografados utilizando TLS 1.2.
