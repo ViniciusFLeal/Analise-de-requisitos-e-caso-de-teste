@@ -9,8 +9,8 @@ Este repositório contém exemplos de projetos e habilidades aplicadas na área 
 
 ## Ferramentas que podem ser usadas para análise de requisitos
 
-Jira (para tracking de requisitos)
+Jira (para monitoramento de requisitos)
 
 Confluence (para documentação de requisitos)
 
-MindMap (para brainstorming e visualização)
+MindMap (para brainstorming e visualização)-muito legal, mais eu nunca usei!
